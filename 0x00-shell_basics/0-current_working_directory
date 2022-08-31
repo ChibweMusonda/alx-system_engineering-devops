@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 pwd
+=======
+#!/bin/bash 
+chmod u+x 0-current_working_directory
+>>>>>>> a61cf8d445b33d1ae33bda0acd287fdd34ae06d1
